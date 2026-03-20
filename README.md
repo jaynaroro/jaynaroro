@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaynaroro
-- 👀 I’m interested in Software Development, AWS Cloud Solutions and Data Science.
-- 🌱 I’m currently learning FrontEnd development using Javascript(ReactJS).
-- 💞️ I’m looking to collaborate on Javascript or related projects.
+- 👀 I’m interested in Software Development, Linux Systems and Database Management and Administration
+- 🌱 I’m currently learning Java Application Development.
+- 💞️ I’m looking to collaborate on Java or related projects.
 - 📫 How to reach me: Email - narorojay2@gmail.com / Mobile - +254722988227
 
 <!---

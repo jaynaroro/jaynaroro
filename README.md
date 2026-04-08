@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jaynaroro
-- 👀 I’m interested in Software Development, Linux Systems and Database Management and Administration
-- 🌱 I’m currently learning Java Application Development.
-- 💞️ I’m looking to collaborate on Java or related projects.
+- 👀 I build Software Solutions.
 - 📫 How to reach me: Email - narorojay2@gmail.com / Mobile - +254722988227
 
 <!---
